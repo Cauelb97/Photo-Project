@@ -1,0 +1,4 @@
+server.port=0
+spring.application.name=accountmanagement-ws
+eureka.client.serviceUrl.defaultZone=http://localhost:8010
+spring.devtools.restart.enabled=true
